@@ -1,0 +1,41 @@
+<html> 
+<head> 
+      <title›Japneet's Lab Test 1‹/title>
+</head>
+
+<body background="th.jpg"> 
+<h1>About Dogs: </h1>
+      <style> 
+      table {
+           border: 16px indianred;
+}
+th {
+     font-size: 60;
+}     
+</style>
+
+<table border=10 bgcolor="#FFFFE0">
+<tr> 
+     <th> Bull terrier </th>
+     <th> Pomeranian culture </th> 
+     <th> french bulldog </th> 
+<tr> 
+     <td><img height= '300' src=' bullterrier.jpg'/> </td>
+     <td><img height= '300' src=' culture.jpg'/> </td>
+     <td><img height='300' src=' dog.jpg'/> </td>
+</tr>
+<tr> 
+
+<td> 
+    <h4>Personality: </h4>
+    The Bull Terrier's most recognizable feature is its head, described as 'egg-shaped head', when viewed from the front; the top of the skull is almost flat. The profile curves gently downwards from the top of the skull to the tip of the nose, which is black and bent downwards at the tip
+<h4>Living With:</h4>
+Because this dog breed is mighty, they must be obedience trained towards family members and strangers. Their socializing demands frequent overseen exposure to pets and other people nearby. With proper training and mingling, bull terrier makes for an amazing family pet. They are not a great choice for new pet parents or people with multiple pets and reckless kids. 
+
+They need daily physical activity and exercise in a fenced yard for an hour or so. You can also take them for a walk with a leash on. Bull terrier should never be allowed to roam around freely, even if they are trained or not. Thanks to their hefty build, they should not be overfed as they can become obese very quickly. 
+</td>
+<td> </td> <td> </td>
+</tr>
+<td> </td>
+</tr>
+</table> </body> </html>
